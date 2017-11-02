@@ -1,4 +1,5 @@
 # Fully convolutional network version of CaffeNet.
+#糖糖用来搞冲突测试
 name: "CaffeNetConv"
 input: "data"
 input_dim: 1
